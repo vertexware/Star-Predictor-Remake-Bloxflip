@@ -299,4 +299,4 @@ async def claim(ctx, key):
 
 
 
-bot.run('MTA1NzAxNjkxNDk2NDExOTYyMw.GQMNNV.pI-CjxM5gkkW6FGiiJghy390feKtMGbCA9HcJQ')
+bot.run('')
