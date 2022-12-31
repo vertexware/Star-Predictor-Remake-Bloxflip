@@ -1,0 +1,4 @@
+Colorama
+Discord
+Bloxflip
+String
